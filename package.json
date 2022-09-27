@@ -1,6 +1,6 @@
 {
   "name": "@jcahills/antora-link-checker",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "An Antora extension to stop the site generator from  building the site after checking internal links (xrefs).",
   "main": "index.js",
   "scripts": {
